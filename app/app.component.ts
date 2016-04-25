@@ -5,4 +5,6 @@ import {Component} from 'angular2/core';
 	selector: "my-app",
 	templateUrl: "app/templates/splash-page.html"
 })
-export class AppComponent { }
+export class AppComponent {
+
+}
